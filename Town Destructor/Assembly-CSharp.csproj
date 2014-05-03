@@ -46,6 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AreaOfInfluence.cs" />
+     <Compile Include="Assets\PlaneExtrude\PlaneExtrude1.cs" />
+     <Compile Include="Assets\PlaneExtrude\PlaneExtrude2.cs" />
      <Compile Include="Assets\Scripts\BuildingBehaviour.cs" />
      <Compile Include="Assets\Scripts\DataController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
