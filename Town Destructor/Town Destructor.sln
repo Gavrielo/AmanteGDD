@@ -7,6 +7,10 @@ Project("{26D1C66A-6A57-9B10-BBA3-25E097FA9F4B}") = "Town Destructor", "Assembly
 EndProject
 Project("{26D1C66A-6A57-9B10-BBA3-25E097FA9F4B}") = "Town Destructor", "Assembly-UnityScript-firstpass.unityproj", "{BABE7F20-2A34-36E0-BDDD-78A753D132A5}"
 EndProject
+Project("{26D1C66A-6A57-9B10-BBA3-25E097FA9F4B}") = "Town Destructor", "Assembly-UnityScript.unityproj", "{6C3896EC-1EBB-F839-9885-E8A90FBC9DA3}"
+EndProject
+Project("{26D1C66A-6A57-9B10-BBA3-25E097FA9F4B}") = "Town Destructor", "Assembly-UnityScript-Editor.unityproj", "{98905A6E-7362-F332-8BC0-1D171B7E9567}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +29,19 @@ Global
 		{BABE7F20-2A34-36E0-BDDD-78A753D132A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BABE7F20-2A34-36E0-BDDD-78A753D132A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BABE7F20-2A34-36E0-BDDD-78A753D132A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3896EC-1EBB-F839-9885-E8A90FBC9DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3896EC-1EBB-F839-9885-E8A90FBC9DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3896EC-1EBB-F839-9885-E8A90FBC9DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3896EC-1EBB-F839-9885-E8A90FBC9DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98905A6E-7362-F332-8BC0-1D171B7E9567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98905A6E-7362-F332-8BC0-1D171B7E9567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98905A6E-7362-F332-8BC0-1D171B7E9567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98905A6E-7362-F332-8BC0-1D171B7E9567}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																							GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																																																																					GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
